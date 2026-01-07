@@ -133,4 +133,4 @@ freqtrade trade -c config.json --db-url sqlite:///tradesv3.dry_run.sqlite
 ## Next step
 
 The optimal strategy of the bot will change with time depending of the market trends. The next step is to
-[Strategy Customization](strategy-customization.md).
+[Strategy Customization](straegy-customization.md).
